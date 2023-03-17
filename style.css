@@ -1,11 +1,10 @@
 /* Barra de navegacion */
  
-a:link {
+a:link, a:visited {
   text-decoration: none;
+ color:black;
 }
-a:visited {
-  text-decoration: none;
-}
+ 
  
 .navbar {
   padding: 2rem;
