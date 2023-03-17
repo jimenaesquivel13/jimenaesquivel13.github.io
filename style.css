@@ -1,8 +1,9 @@
 /* Barra de navegacion */
  
-a:link, a:visited {
+.text-negro{
 text-decoration: none;
- color:black;
+color:black;
+text-size:20px;
 }
  
  
